@@ -15,3 +15,16 @@ let $function = 27;
 
 let Person = 'Bryan';
 let PI = 3.1415;
+
+let myFirstJob = 'Programmer';
+let myCurrentJob = 'Programmer';
+
+console.log(myFirstJob);
+
+let country = 'Brasil';
+let continent = 'South America';
+let population = 216_400_000;
+
+console.log(country);
+console.log(continent);
+console.log(population);
