@@ -62,3 +62,5 @@ console.log(typeof language);
 
 console.log(typeof population);
 console.log(typeof country);
+
+//test 1234
